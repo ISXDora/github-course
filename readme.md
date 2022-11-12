@@ -2,17 +2,6 @@
 Este é um repositório teste para aprender como o git funciona
 
 
-Saiba mais 
+Github 
 
-Github
-
-
-
-
-
-
-
-
-Aula de git e github para iniciantes 
-
-
+Aprendendo atalhos do vi  
